@@ -1,0 +1,5 @@
+{
+  "name": "MAFIA AI",
+  "description": "A futuristic AI chatbot powered by the Google Gemini API. Features a sleek, dark interface with glowing accents, real-time responses, and persistent chat history.",
+  "requestFramePermissions": []
+}
